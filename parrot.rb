@@ -3,3 +3,5 @@
 def parrot(user_input="Squawk!")
   puts user_input
 end
+
+parrot
